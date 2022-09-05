@@ -1,4 +1,4 @@
 <?php
 	session_start();
-	echo $_SESSION['tugas3'];
+	echo $_SESSION['tugas3'] ;
 ?>
